@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+}
+
+.auth{
+    margin-top: -100px;
+}
+
+.tasks{
+    padding-left: 50;
+}
+
+tr{
+    border-spacing: 7px 11px;
+}
